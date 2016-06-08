@@ -1,0 +1,27 @@
+nav{
+    height: 10%;
+}
+.jumbotron {
+    background-image: url(../images/02.jpg);
+    background-size: cover;
+    width: 1400;
+    height:915;
+    color: #FFFFFF;
+}
+.card-img-top
+{
+    border-radius: 20px;
+}
+.main-footer
+{
+    padding: 20px 0;
+}
+#center {
+    -webkit-align-content: center;
+    align-content: center
+}
+img{
+    margin: 0 auto;
+    min-width: 30%;
+    min-height: 40;
+}
